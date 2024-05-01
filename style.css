@@ -1,0 +1,8 @@
+.container {
+    max-width: 600px;
+  }
+  
+  .delete-btn,
+  .edit-btn {
+    margin-left: 10px;
+  }
